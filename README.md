@@ -7,7 +7,7 @@ A simple Discord Nuker in python! Feel free to skid and rename all of the variab
 3. Go to OAuth2 and go to URL Generator and select the scopes as bot and the bot permissions as administrator.
 4. Copy the OAuth2 link for your bot and invite the bot to the server you want to nuke.
 5. Run main.py on replit or VSC (Visual Studio Code)
-6. Reset the bot token and paste it in where it says "Bot-token"
+6. Reset the bot token and paste it in where it says "Enter Token:-"
 7. Now go into the server you want to nuke and type $nuke and the server will be nuked!
 
 # Disclaimer:
