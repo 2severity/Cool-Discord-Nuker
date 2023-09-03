@@ -20,3 +20,5 @@ Join my Discord server: https://discord.gg/lithium-1124022195274915881
 ![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/5445dc0c-bdd4-4c82-9aab-58e718b59062)
 ![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/2f22e88f-7b5a-4ccd-a776-92178718b82e)
 ![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/f6bd3455-dad6-474a-99f0-d77afc8db96f)
+![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/f9e55f81-c896-40f1-884a-f86550a68e10)
+![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/40b5ff62-c709-42d8-9b28-0156b6089290)
