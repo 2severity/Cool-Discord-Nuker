@@ -12,6 +12,7 @@ A simple Discord Nuker in python! Feel free to skid and rename all of the variab
 
 # Disclaimer:
 Depeding on the bot hosting service ur using, it will affect the speed of the nuker. I recommend using Visual Studio Code over replit if ur on pc. If ur on mobile use replit or something else.
+Also this was made for educational purposes only, I am not responsible for what others decide to do with this code. 
 
 # Contributors
 Severity#0002
