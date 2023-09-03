@@ -15,6 +15,7 @@ Depeding on the bot hosting service ur using, it will affect the speed of the nu
 
 # Contributors
 Severity#0002
+
 Join my Discord server: https://discord.gg/lithium-1124022195274915881
 ![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/5445dc0c-bdd4-4c82-9aab-58e718b59062)
 ![image](https://github.com/2severity/Cool-Discord-Nuker/assets/120887075/2f22e88f-7b5a-4ccd-a776-92178718b82e)
